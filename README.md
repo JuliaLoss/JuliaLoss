@@ -1,8 +1,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Julia Loss-E4405F?style=for-the-badge&logo=&logoColor=white" width="600"/>
+  <img src="https://img.shields.io/badge/Julia Loss-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" width="600"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
